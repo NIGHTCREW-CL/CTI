@@ -25,7 +25,16 @@ Transformar información sobre amenazas en conocimiento útil para la prevenció
 | [Plantilla de registro](templates/REGISTRO.md) | Estructura para documentar trabajo y evidencia. |
 | [Guía de contribución](CONTRIBUTING.md) | Requisitos de calidad y publicación. |
 
-**Estado:** base documental inicial. Los análisis, ejercicios y resultados se incorporarán cuando hayan sido elaborados y revisados.
+## Herramientas de apoyo a CTI
+
+El directorio [tools](tools/README.md) reúne checkers y comandos para que los clientes revisen su exposición a vulnerabilidades publicadas y prioricen las acciones de protección.
+
+| Herramienta | Finalidad |
+| :--- | :--- |
+| [Checker HTTP — CVE-2026-119618](tools/checker-http/README.md) | Revisar indicios de exposición de Apache y verificar la instancia desde Linux. |
+| [Checker Outlook — CVE-2026-124194](tools/checker-outlook/README.md) | Comprobar por versión el estado de actualización de Outlook clásico desde PowerShell. |
+
+Los resultados son orientativos y deben contrastarse con los parches del fabricante y la configuración del sistema.
 
 ## Principios
 
