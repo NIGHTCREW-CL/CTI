@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">NIGHT CREW CTI — Checker Apache</title><desc id="desc">Revisa tu servidor. Entiende el resultado. Prioriza la protección.. CVE-2026-119618. Instrucciones en español.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1729"/><stop offset="1" stop-color="#18364e"/></linearGradient><radialGradient id="glow"><stop stop-color="#58dfd0" stop-opacity=".20"/><stop offset="1" stop-color="#58dfd0" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<rect width="6" height="300" rx="3" fill="#58dfd0"/>
+<circle cx="1045" cy="150" r="190" fill="url(#glow)"/>
+<path d="M840 0V300M900 0V300M960 0V300M1020 0V300M1080 0V300M1140 0V300M840 60H1200M840 120H1200M840 180H1200M840 240H1200" stroke="#d1eaff" stroke-opacity=".035"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="54" y="47" font-size="12" font-weight="700" letter-spacing="3" fill="#99b2c9">NIGHT CREW / CTI TOOLS</text>
+<text x="50" y="121" font-size="54" font-weight="700" fill="#f3f8ff">Checker Apache</text>
+<text x="54" y="164" font-size="21" fill="#c2d5e5">Revisa tu servidor. Entiende el resultado. Prioriza la protección.</text>
+<rect x="54" y="199" width="118" height="32" rx="16" fill="#58dfd0" fill-opacity=".12" stroke="#58dfd0" stroke-opacity=".35"/><text x="113.0" y="220" text-anchor="middle" font-size="13" font-weight="600" fill="#e3f2ff">Python 3</text><rect x="184" y="199" width="132" height="32" rx="16" fill="#58dfd0" fill-opacity=".12" stroke="#58dfd0" stroke-opacity=".35"/><text x="250.0" y="220" text-anchor="middle" font-size="13" font-weight="600" fill="#e3f2ff">Linux / CLI</text><rect x="328" y="199" width="166" height="32" rx="16" fill="#58dfd0" fill-opacity=".12" stroke="#58dfd0" stroke-opacity=".35"/><text x="411.0" y="220" text-anchor="middle" font-size="13" font-weight="600" fill="#e3f2ff">Consulta remota</text>
+<path d="M54 254H1146" stroke="#9eb8cb" stroke-opacity=".18"/>
+<text x="54" y="279" font-size="13" font-weight="700" letter-spacing="1" fill="#58dfd0">CVE-2026-119618</text>
+<text x="1146" y="279" text-anchor="end" font-size="12" fill="#aec6d9">CONOCIMIENTO AL SERVICIO DE LA SEGURIDAD</text>
+</g>
+<g transform="translate(1040 140)" fill="none" stroke="#58dfd0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<circle r="78" stroke-opacity=".20"/><circle r="60" stroke-opacity=".18"/>
+<rect x="-38" y="-33" width="76" height="61" rx="9"/><path d="M-38-14H38M-25-24H-24M-14-24H-13M-4-24H-3M-17 4L-25 12L-17 20M17 4L25 12L17 20M5 1L-5 23"/>
+</g></svg>

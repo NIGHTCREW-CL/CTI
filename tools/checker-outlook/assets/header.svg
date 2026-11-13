@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">NIGHT CREW CTI — Checker Outlook</title><desc id="desc">Comprueba tu versión de Office desde la consola de Windows.. CVE-2026-124194. Instrucciones en español.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1729"/><stop offset="1" stop-color="#18364e"/></linearGradient><radialGradient id="glow"><stop stop-color="#7eb8ff" stop-opacity=".20"/><stop offset="1" stop-color="#7eb8ff" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<rect width="6" height="300" rx="3" fill="#7eb8ff"/>
+<circle cx="1045" cy="150" r="190" fill="url(#glow)"/>
+<path d="M840 0V300M900 0V300M960 0V300M1020 0V300M1080 0V300M1140 0V300M840 60H1200M840 120H1200M840 180H1200M840 240H1200" stroke="#d1eaff" stroke-opacity=".035"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="54" y="47" font-size="12" font-weight="700" letter-spacing="3" fill="#99b2c9">NIGHT CREW / CTI TOOLS</text>
+<text x="50" y="121" font-size="54" font-weight="700" fill="#f3f8ff">Checker Outlook</text>
+<text x="54" y="164" font-size="21" fill="#c2d5e5">Comprueba tu versión de Office desde la consola de Windows.</text>
+<rect x="54" y="199" width="118" height="32" rx="16" fill="#7eb8ff" fill-opacity=".12" stroke="#7eb8ff" stroke-opacity=".35"/><text x="113.0" y="220" text-anchor="middle" font-size="13" font-weight="600" fill="#e3f2ff">Windows</text><rect x="184" y="199" width="166" height="32" rx="16" fill="#7eb8ff" fill-opacity=".12" stroke="#7eb8ff" stroke-opacity=".35"/><text x="267.0" y="220" text-anchor="middle" font-size="13" font-weight="600" fill="#e3f2ff">PowerShell 5.1+</text><rect x="362" y="199" width="150" height="32" rx="16" fill="#7eb8ff" fill-opacity=".12" stroke="#7eb8ff" stroke-opacity=".35"/><text x="437.0" y="220" text-anchor="middle" font-size="13" font-weight="600" fill="#e3f2ff">Consulta local</text>
+<path d="M54 254H1146" stroke="#9eb8cb" stroke-opacity=".18"/>
+<text x="54" y="279" font-size="13" font-weight="700" letter-spacing="1" fill="#7eb8ff">CVE-2026-124194</text>
+<text x="1146" y="279" text-anchor="end" font-size="12" fill="#aec6d9">CONOCIMIENTO AL SERVICIO DE LA SEGURIDAD</text>
+</g>
+<g transform="translate(1040 140)" fill="none" stroke="#7eb8ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<circle r="78" stroke-opacity=".20"/><circle r="60" stroke-opacity=".18"/>
+<rect x="-39" y="-28" width="78" height="56" rx="9"/><path d="M-36-22L0 5L36-22M-36 23L-12 3M36 23L12 3"/>
+</g></svg>
