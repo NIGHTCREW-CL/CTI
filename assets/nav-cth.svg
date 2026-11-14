@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="40" viewBox="0 0 126 40" role="img" aria-labelledby="title desc">
+<title id="title">CTH</title>
+<desc id="desc">Identidad visual de NIGHT CREW. Logo original del cuervo. Los movimientos son decorativos.</desc>
+<defs></defs>
+<style>@media (prefers-reduced-motion: reduce) { .motion { display: none; } }</style>
+<rect x=".5" y=".5" width="125" height="39" fill="#171d16" stroke="#3a4333"/>
+<path d="M1 12V1H12M114 39H125V28" fill="none" stroke="#99a47c"/>
+<text x="63.0" y="25" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.3" fill="#c3ad7b" text-anchor="middle">CTH</text>
+</svg>
